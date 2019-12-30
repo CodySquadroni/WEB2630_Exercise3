@@ -6,7 +6,7 @@
 1. Fork it (<https://github.com/CodySquadroni/WEB2630_Exercise3/fork>)
 2. Clone it (<https://github.com/GITHUB_USERNAME/WEB2630_Exercise3.git>)
 3. Restructure The Code Into Separate Components
-  * Split up App.vue using components (ex: Header, Footer Server, and ServerDetails)
+* Split up App.vue using components (ex: Header, Footer Server, and ServerDetails)
 4. Connect WEB2630_Exercise3 to Netlify
 5. Submit Your GitHub and Netlify URL on Canvas
 
