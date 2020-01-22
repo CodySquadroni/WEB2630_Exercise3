@@ -13,6 +13,9 @@
     3. Copy Template Into Your Repository
         * git push --mirror https://github.com/GITHUB_USERNAME/WEB2630_Exercise3
             * Note: Make sure to put your GitHub Username in place of GITHUB_USERNAME
+    4. Remove Copy WEB2630_Exercise3.git
+    5. Clone Your GitHub Repository
+        * git clone https://github.com/GITHUB_USERNAME/WEB2630_Exercise3
 3. Restructure The Code Into Separate Components
 * Split up App.vue using components (ex: Header, Footer Server, and ServerDetails)
 4. Connect WEB2630_Exercise3 to Netlify
