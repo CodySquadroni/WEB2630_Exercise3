@@ -3,8 +3,16 @@
 
 ## Exercise Steps
 
-1. Fork it (<https://github.com/CodySquadroni/WEB2630_Exercise3/fork>)
-2. Clone it (<https://github.com/GITHUB_USERNAME/WEB2630_Exercise3.git>)
+1. Create WEB2630_Exercise3 Repository on GitHub
+    * Note: Make Repository Private
+2. Open Terminal or Command Prompt
+    1. Clone Template
+        * git clone --bare https://github.com/CodySquadroni/WEB2630_Exercise3
+            * Note: Make sure to 'cd' to a directory you want it downloaded to.
+    2. cd Into WEB2630_Exercise3.git
+    3. Copy Template Into Your Repository
+        * git push --mirror https://github.com/GITHUB_USERNAME/WEB2630_Exercise3
+            * Note: Make sure to put your GitHub Username in place of GITHUB_USERNAME
 3. Restructure The Code Into Separate Components
 * Split up App.vue using components (ex: Header, Footer Server, and ServerDetails)
 4. Connect WEB2630_Exercise3 to Netlify
